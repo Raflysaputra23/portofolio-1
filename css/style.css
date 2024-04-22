@@ -201,7 +201,7 @@ main.container {
 	#skill.container,
 	#contact.container,
 	#footer.container {
-		max-width: 95vw;
+		max-width: 97vw;
 	}
 
 	main.container .row:nth-child(1) {
